@@ -12,3 +12,10 @@ rice
 vegetables
 beans
 wheat flour
+soap
+detergent
+mop
+gloves
+scouring pad
+vim
+harpic
