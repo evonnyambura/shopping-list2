@@ -4,3 +4,11 @@ crisps
 sweets
 popcorn
 chocolate
+sugar
+salt
+cooking oil
+maize flour
+rice
+vegetables
+beans
+wheat flour
